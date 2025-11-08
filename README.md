@@ -1,6 +1,9 @@
 # Sass
 Saas -teste
 
+## Ideias de Graficos para Gestão
+<img width="1511" height="808" alt="image" src="https://github.com/user-attachments/assets/bef823d8-6e09-4fc3-9a56-100b543c9eaf" />
+
 
 ### Dashboard
 <img width="1904" height="752" alt="image" src="https://github.com/user-attachments/assets/4ab58093-6811-4e7a-b094-3c6ca8dbef20" />
